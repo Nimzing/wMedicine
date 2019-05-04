@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width; user-scalable=0;"/>
+    <title>My HTML</title>
+</head>
+<body style="background-color:lightblue;">
+<h1>Medical Advice</h1>
+
+<p><b style="color:Red;">Commonly encountered diseases.</b>
+    <br>
+By going ahead to access the contents of this app, you agree to our terms, conditions as well as our privacy policy.</p>
+</body>
+</html>
+<div>
+    <body>
+    <style>
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #3e8e41}
+
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+</style>
+    </body>
+</div>
+<button>Assessment of common conditions</button>
+<br></br>
+<a href="https://www.fyrebox.com/play/female-abdominal-pain-che_YojeePx3d"><button class="button">Abdominal pain (Female)</button></a>
+<br></br>
+<a href="https://www.fyrebox.com/play/male-abdominal-pain-check_qoqemgZZr"><button class="button">Abdominal pain (Male)</button> </a>
+<br></br>
+<a href="https://www.fyrebox.com/play/acute-diarrheoa_8pZ1RBJw8"><button class="button">Acute Diarrhoea</button> </a>
+<br></br>
+<a href="https://www.fyrebox.com/play/could-i-be-depressed_O217jd5nD"><button class="button">Could I be depressed? </button> </a>
+<br></br>
+<button>Non Pharmacological Treatment Advice</button>
+<br></br>
+<a href="asthma.html"><button class="button">Asthma</button> </a>
+<br></br>
+<a href="backpain.html"><button class="button">Back pain</button> </a>
+<br></br>
+<a href="diabetes.html"><button class="button">Diabetes Mellitus</button> </a>
+<br></br>
+<a href="highchol.html"><button class="button">Hypercholesterolaemia</button></a>
+<br></br>
+<a href="htn.html"><button class="button">Hypertention</button> </a>
+<br></br>
+<a href="Indigestion.html"><button class="button">Indigestion/Reflux</button> </a>
+
+<br></br>
+<a href="IBS.html"><button class="button">Irritable Bowel Syndrome</button> </a>
+<br></br>
+<a href="osteoarthritis.html"><button class="button">Osteoarthritis</button></a>
